@@ -1,0 +1,23 @@
+{
+  "name": "rockwell",
+  "version": "1.0.0",
+  "description": "This is SDM LAB Exam",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashshinde96/Rockwell.git"
+  },
+  "author": "YASH SHINDE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashshinde96/Rockwell/issues"
+  },
+  "homepage": "https://github.com/yashshinde96/Rockwell#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
